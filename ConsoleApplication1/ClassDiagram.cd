@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Type Class&#xD;&#xA;&#xD;&#xA;">
+    <Position X="2.868" Y="0.617" Height="0.295" Width="1.302" />
+  </Comment>
+  <Comment CommentText="Static class">
+    <Position X="2.934" Y="3.793" Height="0.325" Width="1.223" />
+  </Comment>
+  <Comment CommentText="Functionality">
+    <Position X="6.683" Y="0.565" Height="0.303" Width="1.231" />
+  </Comment>
+  <Class Name="PoemMaster.Util.RandomHelper">
+    <Position X="2.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\RandomHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoemMaster.Type.Keyword">
+    <Position X="2.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Type\Keyword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoemMaster.Rule">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAACEAAAACAAAAAIAAQAAAAIAIQAAAAAAAAAgAAA=</HashCode>
+      <FileName>Type\Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parse.Word">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Type\Word.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parse.Parser">
+    <Position X="6.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Function\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parse.Generator">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Function\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Consolas" Size="10" />
+</ClassDiagram>
